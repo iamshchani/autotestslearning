@@ -66,6 +66,7 @@ class BaseClass {
         smsCodeField.sendKeys("1111")
         TimeUnit.SECONDS.sleep(5)
         TimeUnit.SECONDS.sleep(5)
+        //new change in develop
     }
 
 }
